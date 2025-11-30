@@ -1,4 +1,4 @@
-# Face_and_Eye_Detection
+# Face_and_Eye_Detection Using OpenCV
 This project detects the face and eye from the uploaded image.
 
 Before Detection
